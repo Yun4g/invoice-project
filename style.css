@@ -1,0 +1,64 @@
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+
+*{
+    font-family: 'satoshi', sanserif;
+}
+body{
+    background: rgba(242, 242, 242, 1);
+
+}
+main{
+    width: 1000px;
+    background: white;
+}
+#overall-container{
+    background: rgba(242, 242, 242, 1);
+    padding-top: 86px;
+    height: fit-content;
+}
+#first-section{
+    width: 227px;
+   
+}
+#logo-image{
+    background: rgba(24, 58, 91, 1);
+    padding: 8px 8px 8px 16px; 
+
+}
+.blue{
+    background: rgba(24, 58, 91, 1);
+  
+    
+}
+.p{
+    padding: 16px 10px 16px 8px; 
+}
+#inner-section-1{
+    padding: 16px;
+}
+#India{
+    color: rgba(10, 37, 64, 1);
+
+}
+
+.satoshi{
+    font-family: 'satoshi', sans-serif;
+    font-weight:300 ;
+}
+
+#invoice{
+   h2{
+    width: 275px;
+  
+
+    
+   }
+}
+
+#prices{
+    margin-top: 50px;
+}
+.signature{
+    transform: translateX(500px);
+    margin-top: 40px;
+}
